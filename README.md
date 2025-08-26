@@ -43,5 +43,12 @@ Menguji apakah terdapat **perbedaan rata-rata pengeluaran untuk wine** antara pe
 ---
 
 ## 📊 Visualisasi
-- Boxplot pengeluaran (`MntWines`) per kategori pendidikan
-- Histogram distribusi pengeluaran
+
+- **Distribusi jumlah pengeluaran untuk wine**  
+  ![Distribusi Pengeluaran Wine](reports/figures/Jumlah pengeluaran untuk Wine.png)
+
+- **Distribusi tingkat pendidikan pelanggan**  
+  ![Distribusi Pendidikan](reports/figures/Distribusi Pendidikan.png)
+
+- **Pengeluaran wine berdasarkan tingkat pendidikan**  
+  ![Boxplot Wine vs Education](reports/figures/Pengeluaran Wine berdasarkan pendidikan.png)
