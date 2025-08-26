@@ -45,10 +45,10 @@ Menguji apakah terdapat **perbedaan rata-rata pengeluaran untuk wine** antara pe
 ## 📊 Visualisasi
 
 - **Distribusi jumlah pengeluaran untuk wine**  
-  ![Distribusi Pengeluaran Wine](reports/figures/Jumlah pengeluaran untuk Wine.png)
+  ![Distribusi Pengeluaran Wine](reports/figures/Jumlah%20pengeluaran%20untuk%20Wine.png)
 
 - **Distribusi tingkat pendidikan pelanggan**  
-  ![Distribusi Pendidikan](reports/figures/Distribusi Pendidikan.png)
+  ![Distribusi Pendidikan](reports/figures/Distribusi%20Pendidikan.png)
 
 - **Pengeluaran wine berdasarkan tingkat pendidikan**  
-  ![Boxplot Wine vs Education](reports/figures/Pengeluaran Wine berdasarkan pendidikan.png)
+  ![Boxplot Wine vs Education](reports/figures/Pengeluaran%20Wine%20berdasarkan%20pendidikan.png)
